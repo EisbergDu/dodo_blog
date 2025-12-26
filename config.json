@@ -1,6 +1,7 @@
 {
     "title":"Eisberg's Blog",
-    "subTitle":"Welcome to my space；You can concact me via email: iceber9@qq.com",
+    "subTitle":"Welcome to my space；You can concact me via email",
     "avatarUrl":"https://avatars.githubusercontent.com/u/141908181?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "email":"iceber9@qq.com"
 }
