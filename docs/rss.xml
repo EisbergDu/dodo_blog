@@ -1,10 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eisberg's Blog</title><link>https://EisbergDu.github.io/dodo_blog</link><description>Welcome to my space；You can concact me via email: iceber9@qq.com</description><copyright>Eisberg's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/141908181?v=4</url><title>avatar</title><link>https://EisbergDu.github.io/dodo_blog</link></image><lastBuildDate>Thu, 08 Jan 2026 02:06:34 +0000</lastBuildDate><managingEditor>Eisberg's Blog</managingEditor><ttl>60</ttl><webMaster>Eisberg's Blog</webMaster><item><title>截面进度</title><link>https://EisbergDu.github.io/dodo_blog/post/jie-mian-jin-du.html</link><description># 数据部分
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eisberg's Blog</title><link>https://EisbergDu.github.io/dodo_blog</link><description>Welcome to my space；You can concact me via email: iceber9@qq.com</description><copyright>Eisberg's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/141908181?v=4</url><title>avatar</title><link>https://EisbergDu.github.io/dodo_blog</link></image><lastBuildDate>Thu, 08 Jan 2026 02:09:12 +0000</lastBuildDate><managingEditor>Eisberg's Blog</managingEditor><ttl>60</ttl><webMaster>Eisberg's Blog</webMaster><item><title>截面进度</title><link>https://EisbergDu.github.io/dodo_blog/post/jie-mian-jin-du.html</link><description># 数据部分
 
 - [x] binance指定交易对数据
+- [ ] Gate指定交易对数据
+- [ ] A股股票量价数据
 
 
 # 因子计算框架
+
+- [ ] 101因子复现
+
+# 因子分析框架
+
+- [ ] ICIR
+- [ ] 分层收益
+- [ ] 换手率、稳健性分析
+
 
 。</description><guid isPermaLink="true">https://EisbergDu.github.io/dodo_blog/post/jie-mian-jin-du.html</guid><pubDate>Thu, 08 Jan 2026 02:06:07 +0000</pubDate></item><item><title>2025/12/28</title><link>https://EisbergDu.github.io/dodo_blog/post/2025-12-28.html</link><description>今天依旧是正常的一天，还是做了一些学习的动作。</description><guid isPermaLink="true">https://EisbergDu.github.io/dodo_blog/post/2025-12-28.html</guid><pubDate>Sun, 28 Dec 2025 15:25:44 +0000</pubDate></item><item><title>因子随手记</title><link>https://EisbergDu.github.io/dodo_blog/post/yin-zi-sui-shou-ji.html</link><description>- 筹码密集程度
 - 期权偏度
