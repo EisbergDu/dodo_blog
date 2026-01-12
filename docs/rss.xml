@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eisberg's Blog</title><link>https://EisbergDu.github.io/dodo_blog</link><description>Welcome to my space；You can concact me via email: iceber9@qq.com</description><copyright>Eisberg's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/141908181?v=4</url><title>avatar</title><link>https://EisbergDu.github.io/dodo_blog</link></image><lastBuildDate>Thu, 08 Jan 2026 02:09:12 +0000</lastBuildDate><managingEditor>Eisberg's Blog</managingEditor><ttl>60</ttl><webMaster>Eisberg's Blog</webMaster><item><title>截面进度</title><link>https://EisbergDu.github.io/dodo_blog/post/jie-mian-jin-du.html</link><description># 数据部分
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eisberg's Blog</title><link>https://EisbergDu.github.io/dodo_blog</link><description>Welcome to my space；You can concact me via email: iceber9@qq.com</description><copyright>Eisberg's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/141908181?v=4</url><title>avatar</title><link>https://EisbergDu.github.io/dodo_blog</link></image><lastBuildDate>Mon, 12 Jan 2026 01:55:39 +0000</lastBuildDate><managingEditor>Eisberg's Blog</managingEditor><ttl>60</ttl><webMaster>Eisberg's Blog</webMaster><item><title>截面记录</title><link>https://EisbergDu.github.io/dodo_blog/post/jie-mian-ji-lu.html</link><description># 2026/1/12开仓记录
+
+又搞错了，买成今天更新的了...但是幸亏变动的不多，而且得每天早上八点起来调仓
+
+要看1/11的
+
+&lt;img width='3231' height='956' alt='Image' src='https://github.com/user-attachments/assets/9fda7be0-2552-46e7-9faa-7a53ef4d8216' /&gt;。</description><guid isPermaLink="true">https://EisbergDu.github.io/dodo_blog/post/jie-mian-ji-lu.html</guid><pubDate>Mon, 12 Jan 2026 01:55:13 +0000</pubDate></item><item><title>截面进度</title><link>https://EisbergDu.github.io/dodo_blog/post/jie-mian-jin-du.html</link><description># 数据部分
 
 - [x] binance指定交易对数据
 - [ ] Gate指定交易对数据
